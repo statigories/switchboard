@@ -1,2 +1,2 @@
 # switchboard
-This is a Scala library that simpligies using any of the included APIs.
+This is a Scala library that simplifies using any of the included APIs.
